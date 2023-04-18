@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#171716",
-        secondary: "#2C394B",
-        neutral: "#334756",
-        accent: "#FF4C29"
+        primary: "#222831",
+        secondary: "#393E46",
+        neutral: "#EEEEEE",
+        accent: "#00ADB5"
       },
       fontFamily: {
         sans : ["Uroob"]
